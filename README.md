@@ -9,21 +9,21 @@
 天天看播放器 是由上海相悦网络科技有限公司开发的一个产品，董事长邹明华靠逆向快播、西瓜、吉吉等资源，盈利上千万。如图：
 
 第一家公司创业资本-------五万
-![image](https://github.com/banketree/EverydayFilm/blob/master/1.png)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/1.png)</br></br>
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/2.png)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/2.png)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/3.png)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/3.png)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/1.jpg)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/1.jpg)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/2.jpg)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/2.jpg)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/3.jpg)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/3.jpg)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/4.jpg)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/4.jpg)
 
-![image](https://github.com/banketree/EverydayFilm/blob/master/5.jpg)
+![Alt text](https://github.com/banketree/EverydayFilm/blob/master/5.jpg)
 
 
 company:http://www.shendou123.com/
